@@ -1,0 +1,5 @@
+,aluno, nota1, nota2, faltas,média,situação
+0,aluno1,7,7,1,7.0,aprovado
+1,aluno2,3,10,7,2.0,reprovado
+2,aluno3,9,4,2,6.5,reprovado
+3,aluno4,10,6,9,8.0,reprovado
